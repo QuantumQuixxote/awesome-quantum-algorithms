@@ -12,6 +12,11 @@ Awesome Archive of Quantum Algorithms
 ### Quantum Oracles using the Collision Resistance Property of Quantum Hash Functions
 - A quantum algorithm that finds a collision in any two-to-one functions after O(√3 N ) expected evaluations.
 
+### Quantum Search using Quantum Oracles
+
+## Simons Algorithm
+- XOR masking and Simons Algorithm
+
 ## Grover Algorithm
 - Importance of Quantum Oracles
 - Conceptualisation of Grover Operator
