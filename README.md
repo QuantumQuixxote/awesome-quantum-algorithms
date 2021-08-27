@@ -7,6 +7,7 @@ Awesome Archive of Quantum Algorithms
 ## Bassard Hoyer Tapp Algorithm
 - The BHT algorithm uses amplitude amplification, a nice generalisation of Grover's algorithm
 - The dynamic dimensions of quantum oracles
+- The collision resistance of quantum hash functions
 
 ## Grover Algorithm
 - Importance of Quantum Oracles
