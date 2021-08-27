@@ -15,3 +15,6 @@ Awesome Archive of Quantum Algorithms
 ## Grover Algorithm
 - Importance of Quantum Oracles
 - Conceptualisation of Grover Operator
+
+## References
+- https://github.com/ziofil/QuantumGraphs
