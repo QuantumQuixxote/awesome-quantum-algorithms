@@ -4,7 +4,7 @@ Awesome Archive of Quantum Algorithms
 ## Variational Fast Forwarding
 - https://scitechdaily.com/new-fast-forward-algorithm-could-unleash-the-power-of-quantum-computers/
 
-## BHT Algorithm
+## Bassard Hoyer Tapp Algorithm
 - The BHT algorithm uses amplitude amplification, a nice generalisation of Grover's algorithm
 - The dynamic dimensions of quantum oracles
 
