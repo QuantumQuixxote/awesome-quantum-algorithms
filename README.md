@@ -9,10 +9,8 @@ Awesome Archive of Quantum Algorithms
 - The dynamic dimensions of quantum oracles
 - The collision resistance of quantum hash functions
 
-### Quantum Oracles using the Collision Resistance Property of Quantum Hash Functions
+### Quantum Oracles using the Quantum Hash Functions
 - A quantum algorithm that finds a collision in any two-to-one functions after O(√3 N ) expected evaluations.
-
-### Quantum Search using Quantum Oracles
 
 ## Simons Algorithm
 - XOR masking and Simons Algorithm
